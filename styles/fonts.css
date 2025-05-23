@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'nintendo-nes-font';
+    src: local('nintendo-nes-font'), local('nintendo-nes-font'),
+         url('../fonts/nintendo-nes-font.ttf') format('woff2');
+    font-style: normal;
+}
